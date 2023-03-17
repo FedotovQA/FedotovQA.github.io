@@ -1,14 +1,12 @@
-Федотов Алексей
-QA 
+# Федотов Алексей
+## QA 
 
-@FedotovQA
-FedotovQA@gmail.com
+- [@FedotovQA](https://t.me/FedotovQA)
+- FedotovQA@gmail.com
 
-Courses (in progress):
+### Courses (in progress):
 - EPAM Software Testing Introduction
 
 
 - UDENY "Практический и теоретический курс по профессии Тестировщик ПО." 
-```
-(НТТР и HTTPS; cache и cookie; SOAP; REST; Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;)
-```
+  - (НТТР и HTTPS; cache и cookie; SOAP; REST; Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;)
