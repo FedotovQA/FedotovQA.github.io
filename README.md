@@ -6,7 +6,7 @@
 
 ### Courses (in progress):
 - EPAM Software Testing Introduction
-
+  > [результаты](https://github.com/FedotovQA/Portfolio/blob/main/Opera%20Снимок_2023-03-19_150723_elearn.epam.com.png)
 
 - UDEMY "Практический и теоретический курс по профессии Тестировщик ПО." 
   > (НТТР и HTTPS; Cache и Cookie; API, SOAP, REST, Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;)
