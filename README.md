@@ -8,8 +8,8 @@
 - EPAM Software Testing Introduction
 
 
-- UDENY "Практический и теоретический курс по профессии Тестировщик ПО." 
-  - (НТТР и HTTPS; cache и cookie; SOAP; REST; Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;)
+- UDEMY "Практический и теоретический курс по профессии Тестировщик ПО." 
+> (НТТР и HTTPS; Cache и Cookie; API, SOAP, REST, Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;)
 
 
 |  Тип модели  |       Уровни OSI      |    Protocol Data Unit (PDU)    |     Уровни TCP/IP    |
