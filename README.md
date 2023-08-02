@@ -4,26 +4,27 @@
 - [@FedotovQA](https://t.me/FedotovQA)
 - [FedotovQA@gmail.com](mailto:FedotovQA@gmail.com)
 
-### Courses (in progress):
+### Courses:
 - EPAM Software Testing Introduction
   > [результаты](https://github.com/FedotovQA/Portfolio/blob/main/Opera%20Снимок_2023-03-21_153342_elearn.epam.com.png)
 
 - UDEMY "Практический и теоретический курс по профессии Тестировщик ПО." 
-  > (НТТР и HTTPS; Cache и Cookie; API, SOAP, REST, Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;)
+  > (НТТР и HTTPS; Cache и Cookie; API, SOAP, REST, Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;).
 
-1. Курсы:
-	1.  "Тестирование ПО. Профессиональный курс подготовки QA"
-	   Лектор - Алексей Маршал
-	2. "Качество и тестирование ПО"
-	   Техносфера Mail.ru Group, МГУ им. М.В. Ломоносова.
-	   Лекторы - Алексей Петров, Алексей Дыбов
-	3. 
-2. Книги:
+- "Тестирование ПО. Профессиональный курс подготовки QA. Лектор - Алексей Маршал
+  > (Теория тестирования, Виды тестирования, Методы тестирования, Клиент серверная архитектура).
+
+- Техносфера Mail.ru Group, МГУ им. М.В. Ломоносова. "Качество и тестирование ПО". Лекторы - Алексей Петров, Алексей Дыбов
+  > ( Основные понятия обеспечения качества, Тестовая документация, Инструменты управления тестами, Менеджмент тестирования).
+
+### Books (in progress):
 	1.  Что такое тестирование. Курс молодого бойца. Ольга Назина 2022
 	2. Тестирование программного обеспечения. Базовый курс. Святослав Куликов. С. С. 3-е изд 2020
-3. Инстументы:
+ 
+ ## Tools:
+> (know the interface and basic commands)
 	1. SQL - MySQL, DB Browser (SQLite), DBeaver
-	2. API - Postman, SoapUI 5.7.0.
+	2. API - Postman, SoapUI.
 	3. PowerShell, Pwd/Bash
 	4. Jira, Confluence
 	5. DevTools
