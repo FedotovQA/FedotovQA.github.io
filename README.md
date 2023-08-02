@@ -1,5 +1,5 @@
 # Федотов Алексей
-## QA 
+## QA engineer
 
 - [@FedotovQA](https://t.me/FedotovQA)
 - [FedotovQA@gmail.com](mailto:FedotovQA@gmail.com)
