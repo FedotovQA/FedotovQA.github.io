@@ -2,7 +2,7 @@
 ## QA 
 
 - [@FedotovQA](https://t.me/FedotovQA)
-- FedotovQA@gmail.com
+- [FedotovQA@gmail.com](mailto:FedotovQA@gmail.com)
 
 ### Courses (in progress):
 - EPAM Software Testing Introduction
