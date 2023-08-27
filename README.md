@@ -6,7 +6,7 @@
 
 ### Courses:
 - EPAM Software Testing Introduction
-  > [результаты](https://github.com/FedotovQA/Portfolio/blob/main/Opera%20Снимок_2023-03-21_153342_elearn.epam.com.png)
+  > [результаты]([https://github.com/FedotovQA/Portfolio/blob/main/Opera%20Снимок_2023-03-21_153342_elearn.epam.com.png](https://raw.githubusercontent.com/FedotovQA/Portfolio/main/Opera%20Снимок_2023-03-21_153342_elearn.epam.com.png))
 
 - UDEMY "Практический и теоретический курс по профессии Тестировщик ПО." 
   > (НТТР и HTTPS; Cache и Cookie; API, SOAP, REST, Postman; Jmeter; Git; GitHub; DevTools; SQL; JIRA;).
@@ -25,7 +25,7 @@
   2. "Тестирование программного обеспечения. Базовый курс". Святослав Куликов. С. С. 3-е изд 2020
 ```
  
- ## Tools:
+ ### Tools:
 > (know the interface and basic commands)
 
 1. SQL - MySQL, DB Browser (SQLite), DBeaver
