@@ -35,3 +35,6 @@
 5. DevTools
 6. Visual Studio Code
 7. Charles, Fiddler
+
+### Career Summary:
+  > [прошлый опыт работы](https://github.com/FedotovQA/Portfolio/blob/main/Федотов%20Алексей%20_%20Прошлый%20опыт.pdf)
