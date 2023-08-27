@@ -25,7 +25,7 @@
   2. "Тестирование программного обеспечения. Базовый курс". Святослав Куликов. С. С. 3-е изд 2020
 ```
  
- ### Tools:
+### Tools:
 > (know the interface and basic commands)
 
 1. SQL - MySQL, DB Browser (SQLite), DBeaver
