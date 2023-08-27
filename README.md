@@ -37,9 +37,4 @@
 7. Charles, Fiddler
 
 ### Career Summary:
-  > [прошлый опыт работы](https://github.com/FedotovQA/Portfolio/blob/main/Федотов%20Алексей%20_%20Прошлый%20опыт.pdf)
-
-  > [Или так?](https://drive.google.com/file/d/1MHECmvPie6O96onFbD1NnTOz_RMiBiSN/view)
-
-![Федотов Алексей - Прошлый опыт](https://github.com/FedotovQA/FedotovQA.github.io/files/12448184/_.pdf)
-
+  > [Резюме - прошлый опыт](https://drive.google.com/file/d/1MHECmvPie6O96onFbD1NnTOz_RMiBiSN/view)
