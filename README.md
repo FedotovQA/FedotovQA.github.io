@@ -41,5 +41,5 @@
 
   > [Или так?](https://drive.google.com/file/d/1MHECmvPie6O96onFbD1NnTOz_RMiBiSN/view)
 
-[Федотов Алексей _ Прошлый опыт.pdf](https://github.com/FedotovQA/FedotovQA.github.io/files/12448184/_.pdf)
+![Федотов Алексей - Прошлый опыт](https://github.com/FedotovQA/FedotovQA.github.io/files/12448184/_.pdf)
 
